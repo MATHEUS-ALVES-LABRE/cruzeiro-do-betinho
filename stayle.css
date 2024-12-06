@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+header {
+  height: 100vh;
+  background-color: #DAA520;
+  background-image: url("./mariah betinho 1.png");
+  background-repeat: no-repeat;
+  background-size: 100% 130vh;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+h1 {
+  width: 70vw;
+  text-align: center;
+  color: #9D0000;
+  font-size: 6rem;
+  margin-top: 30px;
+  font-family: "itim", cursive;
+  font-weight: 400;
+}/*# sourceMappingURL=stayle.css.map */
